@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "mohamedbenmohamed@gmail.com",
+      "password": "$2a$10$sFXwIcQc2tq3vWF/Bg53ve26Z7I9iJX/3wGUdnBlGiq/3xTy2PWw2",
+      "name": "mohamed",
+      "username": "benmohamed",
+      "role": "ROLE_ADMIN",
+      "id": 1
+    },
+    {
+      "email": "wassim@gmail.com",
+      "password": "$2a$10$yskIU/AWtGol6UFnKkydfuu3mFEWd8VT3Cl22AWHhFqFtwRRavDf6",
+      "name": "wassim",
+      "username": "trabelsi",
+      "role": "ROLE_ADMIN",
+      "id": 2
+    }
+  ]
+}
